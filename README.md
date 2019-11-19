@@ -9,9 +9,11 @@ En este curso se aprendió a:
     - Arboles genéricos
 
         ![Arboles genericos](images/arbolGeneral.png)
-        
+
     - Grafos
-    - Programación dinámica, algoritmos ávidos 
+
+        ![Grafos](images/grafo.png)
+
     - Técnicas de ordenación
         - ShellShort
         - Burbuja
@@ -19,6 +21,8 @@ En este curso se aprendió a:
         - HeapSort
         - Bucket y RadixSort
         - Selección | Inserción directa
+
+        ![HeapSort](images/heapsort.png)
 
 - Desarrollar programas de computación en Java 8 para el desarrollo del curso con el IDE NetBeans, cumpliendo con estándares básicos de calidad de software y aplicando técnicas modernas de desarrollo de software, globalmente aceptadas en la industria moderna.
 
