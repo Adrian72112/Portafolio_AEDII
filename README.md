@@ -7,6 +7,9 @@ En este curso se aprendió a:
 
 - Describir, analizar, implementar y aplicar diferentes algoritmos y estructuras de datos para la resolución de problemas que puedan ser resueltos utilizando:
     - Arboles genéricos
+
+        ![Arboles genericos](images/arbolGeneral.png)
+        
     - Grafos
     - Programación dinámica, algoritmos ávidos 
     - Técnicas de ordenación
@@ -22,5 +25,3 @@ En este curso se aprendió a:
 - Expresar efectivamente propuestas de desarrollo y soluciones de software a problemas reales, en forma escrita y oral, argumentando de manera sistematizada sobre diferentes opciones existentes.
 
 - Trabajar efectivamente en un equipo de personas para el análisis y solución de problemas mediante aplicaciones de software.
-
-![Arboles genericos](images/arbolGeneral.png)
