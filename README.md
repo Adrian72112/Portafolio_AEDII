@@ -1,5 +1,6 @@
 # Algoritmos y Estructuras de datos II:
 _Portafolio de algoritmos II Universidad Católica del Uruguay._
+
 En este curso se aprendió a:
 
 - Identificar y aplicar técnicas apropiadas para el diseño de algoritmos de computación para la resolución de problemas.
