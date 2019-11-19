@@ -17,9 +17,8 @@ En este curso se aprendió a:
         - Bucket y RadixSort
         - Selección | Inserción directa
 
-- Desarrollar programas de computación en el (los) lenguajes de programación seleccionado (s) para el desarrollo del curso, cumpliendo con estándares básicos de calidad de software y aplicando técnicas modernas de desarrollo de software, globalmente aceptadas en la industria moderna de software.
+- Desarrollar programas de computación en Java 8 para el desarrollo del curso con el IDE NetBeans, cumpliendo con estándares básicos de calidad de software y aplicando técnicas modernas de desarrollo de software, globalmente aceptadas en la industria moderna.
 
 - Expresar efectivamente propuestas de desarrollo y soluciones de software a problemas reales, en forma escrita y oral, argumentando de manera sistematizada sobre diferentes opciones existentes.
 
 - Trabajar efectivamente en un equipo de personas para el análisis y solución de problemas mediante aplicaciones de software.
-
