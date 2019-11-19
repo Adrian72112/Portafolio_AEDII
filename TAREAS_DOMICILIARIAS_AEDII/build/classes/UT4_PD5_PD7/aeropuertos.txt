@@ -1,0 +1,8 @@
+Asuncion,0
+Buenos_Aires,0
+Curitiba,0
+Montevideo,0
+Porto_Alegre,0
+Rio_de_Janeiro,0
+San_Pablo,0
+Santos,0

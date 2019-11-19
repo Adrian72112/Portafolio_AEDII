@@ -1,0 +1,11 @@
+palabra,frecuencia
+the,681
+and,362
+,340
+of,331
+to,278
+a,250
+I,215
+was,206
+in,194
+that,186
